@@ -1,3 +1,3 @@
 function profileDetails() {
-  console.log("Profile Details of User");
+  console.log("Profile Details of Users Page");
 }
