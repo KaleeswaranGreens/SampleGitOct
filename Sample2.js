@@ -1,4 +1,4 @@
 function loginMessage() {
-    console.log("Login Successful");
+    console.log("Login Successful User!");
 }
 loginMessage()
